@@ -54,7 +54,7 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="md-form mb-0">
-                                    <input type="tel"  name="yosh" placeholder="Yoshingizni kiriting" pattern="[0-9]{2}" class="form-control" >
+                                    <input type="number"  name="yosh" placeholder="Yoshingizni kiriting" min="0" class="form-control" >
                                     
                                 </div>
                             </div>
